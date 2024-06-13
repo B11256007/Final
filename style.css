@@ -7,7 +7,7 @@
 body {
     font-family: 'Noto Sans TC', sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     color: #333;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #3001ff;
     color: #fff;
     padding: 20px 0;
     border-bottom: #0779e4 3px solid;
@@ -61,7 +61,7 @@ section h2 {
     text-align: center;
     margin-bottom: 20px;
     font-size: 2em;
-    color: #0779e4;
+    color: #07e6ff;
 }
 
 .intro p, .contact p {
@@ -97,7 +97,7 @@ section h2 {
 }
 
 footer {
-    background: #333;
+    background: #ff0101;
     color: #fff;
     text-align: center;
     padding: 10px 0;
